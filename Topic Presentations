@@ -9,7 +9,7 @@ Lifecycle Models and Process
 2.  Test Driven Development                          -
 3.  Behavior Driven Development                      -
 4.  CI/CD Pipeline                                   -  DeShaun Acklin
-5.  Azure DevOps                                     -
+5.  Azure DevOps                                     -  Payton Scott
 
 Project Management and Professional Practice
 6.  Risk Management                                  - Xinke Chen
@@ -18,13 +18,15 @@ Project Management and Professional Practice
 9.  Agile Estimation                                 -
 
 Software Architecture and Design
-10. Service-Oriented Architecture                    -
-11. Microservices in Industry                        -
+10. Service-Oriented Architecture                    - 
+11. Microservices in Industry                        - Jason (Surely this one isn't taken yet!)
 12. API Gateway Pattern                              -
+13. GraphQL vs REST                                  -
+14. Event-Driven Architecture                        - Dennis Tate
 13. GraphQL vs REST                                  - 
 14. Event-Driven Architecture                        - Mason Booker
 13. GraphQL vs REST                                  - Zee Smith
-14. Event-Driven Architecture                        -
+14. Event-Driven Architecture                        - Cameron Higgins
 15. Serverless Architecture                          -
 
 Cloud, Infrastructure and DevOps
@@ -33,12 +35,14 @@ Cloud, Infrastructure and DevOps
 18. Feature Flags                                    -
 19. Observability and Monitoring                     - Shawn T.  
 20. Chaos Engineering                                - Alisha Khaleeq
-21. Site Reliability Engineering                     -
+21. Site Reliability Engineering                     - Jeremi Taylor
 
 Security
 22. OAuth 2.0 and OpenID Connect                     -
-23. DevSecOps                                        -
+23. DevSecOps                                        - Caleb Greenhaw
 
 AI in Software Engineering
 24. AI for Code Generation                           -
+25. Prompt Engineering for Developers                - Daniel Parashak
+24. AI for Code Generation                           - Mitre & Jez
 25. Prompt Engineering for Developers                -
